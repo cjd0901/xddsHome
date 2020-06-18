@@ -10,7 +10,7 @@ export default class HelloWorld extends Component {
                 <span>l</span>
                 <span>l</span>
                 <span>o</span>
-                <span> </span>
+                <span>&nbsp;</span>
                 <span>W</span>
                 <span>o</span>
                 <span>r</span>

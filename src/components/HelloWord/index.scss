@@ -1,5 +1,37 @@
 .cont {
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 100px;
+    & span:nth-child(1) {
+        color: red;
+    }
+    & span:nth-child(2) {
+        color: orangered;
+    }
+    & span:nth-child(3) {
+        color: orange;
+    }
+    & span:nth-child(4) {
+        color: yellow;
+    }
+    & span:nth-child(5) {
+        color: yellowgreen;
+    }
+    & span:nth-child(7) {
+        color: green;
+    }
+    & span:nth-child(8) {
+        color: aquamarine;
+    }
+    & span:nth-child(9) {
+        color: aqua;
+    }
+    & span:nth-child(10) {
+        color: blue;
+    }
+    & span:nth-child(11) {
+        color: purple;
+    }
 }
